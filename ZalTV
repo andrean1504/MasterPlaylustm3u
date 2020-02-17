@@ -37,8 +37,8 @@ http://103.146.185.235:8888/live/stress/bersama/26.ts
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="INDONESIA",MNCTV 
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/Logo-Inews.png" group-title="INDONESIA",INEWS
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/1280px-TvOne_Logo%282012%29.svg.png" group-title="INDONESIA",TV ONE
 https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
