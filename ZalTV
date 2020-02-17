@@ -460,91 +460,47 @@ http://103.146.185.235:8888/live/stress/bersama/375.ts
 
 
 
-########################################################### LIVE SPORTS ###################################################
+########################################################### OLYMPIC SPORTS ###################################################
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 1
-http://stream.doball.com:8080/hls/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 2
-http://stream.doball.com:8080/hls/ch2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 3
-http://stream.doball.com:8080/hls/ch3.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 4
-http://stream.doball.com:8080/hls/ch4.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 5
-http://stream.doball.com:8080/hls/ch5.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 6
-http://stream.doball.com:8080/hls/ch6.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 7
-http://stream.doball.com:8080/hls/ch7.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 8
-http://stream.doball.com:8080/hls/ch8.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 9
-http://stream.doball.com:8080/hls/ch9.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 10
-http://stream.doball.com:8080/hls/ch10.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 11
-http://stream.doball.com:8080/hls/ch11.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 12
-http://stream.doball.com:8080/hls/ch12.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 13
-http://stream.doball.com:8080/hls/ch13.m3u8?feed
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 14
-http://stream.doball.com:8080/hls/ch14.m3u8?feed
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0cpMyvggtiuvqHnLWZUpIfJ6XgsC-Cps7n7V-K6DeGVGwIE5n" group-title="LIVE SPORTS",Live Sports 15
-http://stream.doball.com:8080/hls/ch15.m3u8?feed
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS",Olympic 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 1
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS",Olympic 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 2
 https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS",Olympic 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 3
 https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS",Olympic 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 4
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS",Olympic 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS",Olympic 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 6
 https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS",Olympic 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 7
 https://ott-live.olympicchannel.com/out/u/OC7_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS",Olympic 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 8
 https://ott-live.olympicchannel.com/out/u/OC8_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS",Olympic 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 9
 https://ott-live.olympicchannel.com/out/u/OC9_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS",Olympic 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 10
 https://ott-live.olympicchannel.com/out/u/OC10_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS",Olympic 11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 11
 https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="LIVE SPORTS",Olympic 12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 12
 https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
 
 
-########################################################### ISLAM ###################################################
+########################################################### RELIGI ###################################################
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGg3wEzJKeDXsFBV9_Mn9JvAn7lF8q2Ju2HD0HaAFTDRENDXa&s" group-title="RELIGI",Muslim TV
 https://liveanevia.mncnow.id/live/eds/AutoGadget/sa_hls/AutoGadget.m3u8
@@ -602,7 +558,7 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 ########################################################### KNOWLEDGE ###################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="KNOWLEDGE",History Channel
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
+http://103.146.185.235:8888/live/stress/bersama/775.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMJU_9tQ7p7AL9yxk99lg7Ajr7muv151xM9D6HJObyzuJ3Z7Uu" group-title="KNOWLEDGE",OCEAN TV
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
@@ -617,7 +573,7 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNjUwMTgwNTIzMzc0/discovery-channeljpg.jpg" group-title="KNOWLEDGE",Discovery Channel
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
+http://103.146.185.235:8888/live/stress/bersama/774.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="KNOWLEDGE",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
@@ -626,7 +582,7 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://prod-cdn-crimeandinvestigation-co-uk.s3.amazonaws.com/s3fs-public/logo.png?SC6.8eaHd_Cg9dpYhvLwqztGurNKGDM7" group-title="KNOWLEDGE",Crime Investigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
+http://103.146.185.235:8888/live/stress/bersama/757.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSJNQJ_vTiDRPRxrV0heKYOcfzy5mMG2bmtJZjE1c1CZIxy9lJ" group-title="KNOWLEDGE",National Geographic 1
 http://103.146.185.235:8888/live/stress/bersama/62.ts
