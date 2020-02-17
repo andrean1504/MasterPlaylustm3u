@@ -451,6 +451,15 @@ http://103.146.185.235:8888/live/stress/bersama/274.ts
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_10 HD
 http://103.146.185.235:8888/live/stress/bersama/375.ts
 
+#EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_11 HD
+http://103.146.185.235:8888/live/stress/bersama/275.ts
+
+
+
+
+
+
+
 
 
 ########################################################### OLYMPIC SPORTS ###################################################
