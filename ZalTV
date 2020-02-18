@@ -546,9 +546,10 @@ http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="RELIGI",AL Bahjah
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
 
-#EXTINF:-1 
-tvg-logo="https://pbs.twimg.com/profile_images/761114976522121217/Z9zZxlVY_400x400.jpg" group-title="RELIGI",Aswaja TV
+
+#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/761114976522121217/Z9zZxlVY_400x400.jpg" group-title="RELIGI",Aswaja TV
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQq3YEnlzNAZwZslPyecOzA_bhNN4bJ1RuVAhzQjBhne5rfv1D&s" group-title="RELIGI",Tahfizh Tv
 http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
