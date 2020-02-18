@@ -547,8 +547,8 @@ http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
 
 
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/761114976522121217/Z9zZxlVY_400x400.jpg" group-title="RELIGI",Aswaja TV
-http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/761114976522121217/Z9zZxlVY_400x400.jpg" group-title="RELIGI",KHAZANAH TV
+http://103.146.185.235:8888/live/stress/bersama/240.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQq3YEnlzNAZwZslPyecOzA_bhNN4bJ1RuVAhzQjBhne5rfv1D&s" group-title="RELIGI",Tahfizh Tv
