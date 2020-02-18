@@ -28,10 +28,10 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFsWfYKR/SCTV.png" group-title="INDONESIA",SCTV
-http://103.146.185.235:8888/live/stress/bersama/9.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1582077454~acl=/hls-p/ingest_204_*/*~hmac=536356414b76f0fa48927844d2fdc10c28e872b29640af85ada81cfbc3485f13/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV
-http://103.146.185.235:8888/live/stress/bersama/26.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1582088493~acl=/hls-p/ingest_782_*/*~hmac=a9b796b7077a4049290f094ed139104cf13bcecd54075d34ec0ceac5a412b032/hls-p/ingest_782_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="INDONESIA",MNCTV 
@@ -227,22 +227,22 @@ http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
 ########################################################### SPORTS ###################################################
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX Sport 1
-http://103.146.185.235:8888/live/stress/bersama/30.ts
+http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/88/Fox_Sports_2_Asia.jpg/320px-Fox_Sports_2_Asia.jpg" group-title="SPORTS",FOX Sport 2
-http://103.146.185.235:8888/live/stress/bersama/29.ts
+http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/fox_sports_3.jpg" group-title="SPORTS",FOX Sport 3
-http://103.146.185.235:8888/live/stress/bersama/28.ts
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/18/2/17/fox-sports-3-fox-sports-1-logo-television-channel-png-favpng-5ivi0RNBNQjMkirymSk78yabw.jpg" group-title="SPORTS",FOX SPORTS 1 FULL HD
 http://103.146.185.235:8888/live/stress/bersama/30.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORTS 2 FULL HD
-http://103.146.185.235:8888/live/stress/bersama/29.ts
+http://iliketot.dyndns.tv/1fd48f2cd616439ca4162478e572d681.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRba8iGh0ZNjGuK6N45bEq3QNviWkbYYmajjW7pvYX77e6EKA-g&s" group-title="SPORTS",FOX SPORTS 3 FULL HD
-http://103.146.185.235:8888/live/stress/bersama/28.ts
+http://iliketot.dyndns.tv/b254601a75724ad79e2633f3d307e331.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
 
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/foxsports4hd.png" group-title="SPORTS",FOX SPORTS 4 FULL HD
 http://king365-tv.com:2103/dsko/1234/4423
@@ -418,68 +418,57 @@ https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78EOTcl-N81MMZrfqH-Z3bihkIl6DFHyceFDQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="SPORTS",Badminton 2
 https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
 
-#EXTINF:-1 tvg-ID="" tvg-name="E-TV Sport" tvg-logo="" group-title="E-TV Group",E-TV Sport
-http://103.146.185.235:8888/live/stress/bersama/574.ts
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SUPERSPORTS 1 HD
-http://31.220.1.190:8080/abed/abed123/147234
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SUPERSPORTS 2 HD
-http://31.220.1.190:8080/abed/abed123/147235
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SUPERSPORTS 3 HD
-http://31.220.1.190:8080/abed/abed123/147236
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SUPERSPORTS 4 HD
-http://31.220.1.190:8080/abed/abed123/147237
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SPORTS 1 HD
-http://s2.iptv66.tv:80/live/H74146Q35149F/H74146Q35149F/255.ts
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SPORTS 2 HD
-http://s2.iptv66.tv:80/live/H74146Q35149F/H74146Q35149F/256.ts
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SPORTS 3 HD
-http://s2.iptv66.tv:80/live/H74146Q35149F/H74146Q35149F/257.ts
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SPORTS 4 HD
-http://s2.iptv66.tv:80/live/H74146Q35149F/H74146Q35149F/258.ts
+
+
+
+
 
 
 ########################################################### BEIN GRUP ###################################################
 
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_1 HD
-http://103.146.185.235:8888/live/stress/bersama/185.ts
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_2 HD
-http://103.146.185.235:8888/live/stress/bersama/186.ts
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_3 HD
-http://103.146.185.235:8888/live/stress/bersama/268.ts
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_4 HD
-http://103.146.185.235:8888/live/stress/bersama/269.ts
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_5 HD
-http://103.146.185.235:8888/live/stress/bersama/270.ts
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_6 HD
-http://103.146.185.235:8888/live/stress/bersama/271.ts
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_7 HD
-http://103.146.185.235:8888/live/stress/bersama/272.ts
+http://95.170.215.120:80/hls/m3u8/BeinSport7.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_8 HD
-http://103.146.185.235:8888/live/stress/bersama/273.ts
+http://95.170.215.120:80/hls/m3u8/BeinSport8.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_9 HD
-http://103.146.185.235:8888/live/stress/bersama/274.ts
+http://95.170.215.120:80/hls/m3u8/BeinSport9.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_10 HD
-http://103.146.185.235:8888/live/stress/bersama/375.ts
+http://95.170.215.120:80/hls/m3u8/BeinSport10.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_11 HD
-http://103.146.185.235:8888/live/stress/bersama/275.ts
+http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_12 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
 
 
 
