@@ -560,8 +560,9 @@ http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
 
 
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/761114976522121217/Z9zZxlVY_400x400.jpg" group-title="RELIGI",KHAZANAH TV
-http://103.146.185.235:8888/live/stress/bersama/240.ts
+#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/761114976522121217/Z9zZxlVY_400x400.jpg" group-title="RELIGI",TV9 NUSANTARA
+https://zet.pluginsandthemes.ro/http://wowza60.indostreamserver.com:1935/tv9nusantara/live/chunklist_w108337223.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQq3YEnlzNAZwZslPyecOzA_bhNN4bJ1RuVAhzQjBhne5rfv1D&s" group-title="RELIGI",Tahfizh Tv
@@ -573,8 +574,8 @@ http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/7b/d4/f47bd4ea4008e8b06ce0d2b1aa08f83b.png" group-title="RELIGI",Wesal TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Salam TV" tvg-logo="" group-title="Religi",Salam TV
-http://103.146.185.235:8888/live/stress/bersama/3.ts
+
+
 
 
 ########################################################### KNOWLEDGE ###################################################
