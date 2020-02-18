@@ -580,7 +580,7 @@ http://103.146.185.235:8888/live/stress/bersama/3.ts
 ########################################################### KNOWLEDGE ###################################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="KNOWLEDGE",History Channel
-http://103.146.185.235:8888/live/stress/bersama/775.ts
+http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMJU_9tQ7p7AL9yxk99lg7Ajr7muv151xM9D6HJObyzuJ3Z7Uu" group-title="KNOWLEDGE",OCEAN TV
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
@@ -607,33 +607,34 @@ https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
 http://103.146.185.235:8888/live/stress/bersama/757.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSJNQJ_vTiDRPRxrV0heKYOcfzy5mMG2bmtJZjE1c1CZIxy9lJ" group-title="KNOWLEDGE",National Geographic 1
-http://103.146.185.235:8888/live/stress/bersama/62.ts
+http://iliketot.dyndns.tv/850a8ca433184938bfaeaf770abc5d7a.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSJNQJ_vTiDRPRxrV0heKYOcfzy5mMG2bmtJZjE1c1CZIxy9lJ" group-title="KNOWLEDGE",National Geographic 2
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSJNQJ_vTiDRPRxrV0heKYOcfzy5mMG2bmtJZjE1c1CZIxy9lJ" group-title="KNOWLEDGE",National Geographic (Backup)
 http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="KNOWLEDGE",Nat Geo People 1
-http://103.146.185.235:8888/live/stress/bersama/65.ts
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="KNOWLEDGE",NAT GEO People 2
-http://103.146.185.235:8888/live/stress/bersama/65.ts
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="KNOWLEDGE",Nat Geo People Backup
-http://103.146.185.235:8888/live/stress/bersama/65.ts
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild ID 1
-http://103.146.185.235:8888/live/stress/bersama/64.ts
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild ID 2
-http://103.146.185.235:8888/live/stress/bersama/64.ts
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild Eng
-http://103.146.185.235:8888/live/stress/bersama/64.ts
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild (Backup)
-http://103.146.185.235:8888/live/stress/bersama/64.ts
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="KNOWLEDGE",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
