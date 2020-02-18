@@ -423,19 +423,25 @@ http://103.146.185.235:8888/live/stress/bersama/574.ts
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SUPERSPORTS 1 HD
 http://31.220.1.190:8080/abed/abed123/147234
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SUPERSPORTS 2 HD
 http://31.220.1.190:8080/abed/abed123/147235
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SUPERSPORTS 3 HD
 http://31.220.1.190:8080/abed/abed123/147236
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SUPERSPORTS 4 HD
 http://31.220.1.190:8080/abed/abed123/147237
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SPORTS 1 HD
 http://s2.iptv66.tv:80/live/H74146Q35149F/H74146Q35149F/255.ts
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SPORTS 2 HD
 http://s2.iptv66.tv:80/live/H74146Q35149F/H74146Q35149F/256.ts
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SPORTS 3 HD
 http://s2.iptv66.tv:80/live/H74146Q35149F/H74146Q35149F/257.ts
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/X7khS0m9/M11.png" group-title="SPORT?ASIA?TEMP",ASTRO SPORTS 4 HD
 http://s2.iptv66.tv:80/live/H74146Q35149F/H74146Q35149F/258.ts
 
