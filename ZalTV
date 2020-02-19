@@ -568,8 +568,9 @@ http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
 
 
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/761114976522121217/Z9zZxlVY_400x400.jpg" group-title="RELIGI",TV9 NUSANTARA
-https://zet.pluginsandthemes.ro/http://wowza60.indostreamserver.com:1935/tv9nusantara/live/chunklist_w108337223.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI",TV 9 NUSANTARA 
+https://anevia115.mncnow.id:443/live/eds/TV9/sa_hls/TV9.m3u8? 
+
 
 
 
@@ -581,6 +582,9 @@ http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/7b/d4/f47bd4ea4008e8b06ce0d2b1aa08f83b.png" group-title="RELIGI",Wesal TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI",TV MUHAMMADIYAH 
+https://anevia115.mncnow.id:443/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8? 
 
 
 
