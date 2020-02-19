@@ -830,11 +830,15 @@ http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBzp7BGwolru9XytjrckBBty17cJNgo2O57XQkEkMA2v7RtXJH" group-title="KIDS",One Piece
 http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
 
-#EXTINF:-1 tvg-ID="" tvg-name="Animax" tvg-logo="" group-title="Kids",Animax
-http://103.146.185.235:8888/live/stress/bersama/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nick Junior" tvg-logo="" group-title="Kids",NICK JUNIOR
+http://213.174.8.7:9100/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Aniplus" tvg-logo="" group-title="Kids",Aniplus
-http://103.146.185.235:8888/live/stress/bersama/111.ts
+
+
+
+
+
+
 
 
 
