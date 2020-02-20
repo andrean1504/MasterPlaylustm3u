@@ -264,6 +264,12 @@ http://king365-tv.com:2103/dsko/1234/4422
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HB9kTRdcRPkUWWkV0zS0Fa7R9nzEGfvgIo4_GipXwhwRy2bErA&s" group-title="SPORTS",FOX SPORTS 6 FULL HD
 http://king365-tv.com:2103/dsko/1234/4417
 
+#EXTINF:-1 tvg-logo="https://chemistrahmah.com/wp-content/uploads/2012/09/Useetv_.jpg"group-title="SPORTS",USEE SPORT 1
+http://streamku.live:8888/live/empire/adminempire/502.m3u8
+
+#EXTINF:-1 tvg-logo="https://chemistrahmah.com/wp-content/uploads/2012/09/Useetv_.jpg"group-title="SPORTS",USEE SPORT 2
+http://streamku.live:8888/live/empire/adminempire/503.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png" group-title="SPORTS",Champions tv 1
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 
