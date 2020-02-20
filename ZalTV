@@ -543,7 +543,7 @@ https://streamer-1.toffeelive.com/live/sunnah_tv_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tawaf.tv/assets/img/tawaftv.jpg" group-title="RELIGI",Tawaf TV
 https://liveanevia.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hidayatullah.com/files/bfi_thumb/logo-TVMU-copy-2xoca7ornl3j2e2w9pj5kw.jpg" group-title="RELIGI",TV MU
+#EXTINF:-1 tvg-logo="https://www.hidayatullah.com/files/bfi_thumb/logo-TVMU-copy-2xoca7ornl3j2e2w9pj5kw.jpg" group-title="RELIGI",TV MUHAMMADIYAH
 https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Nabawi-TV-250px.png" group-title="RELIGI",Nabawi TV
@@ -571,7 +571,7 @@ http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI",TV 9 NUSANTARA 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="RELIGI",TV 9 NUSANTARA 
 https://anevia115.mncnow.id:443/live/eds/TV9/sa_hls/TV9.m3u8? 
 
 
