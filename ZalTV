@@ -37,13 +37,13 @@ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFsWfYKR/SCTV.png" group-title="INDONESIA",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582077454~acl=/hls-p/ingest_204_*/*~hmac=536356414b76f0fa48927844d2fdc10c28e872b29640af85ada81cfbc3485f13/hls-p/ingest_204_720p/index.m3u8
+http://streamku.live:8888/live/empire/adminempire/608.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFsWfYKR/SCTV.png" group-title="INDONESIA",SCTV (Back Up)
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV
-https://etslive-2-vidio-com.akamaized.net/exp=1582088493~acl=/hls-p/ingest_782_*/*~hmac=a9b796b7077a4049290f094ed139104cf13bcecd54075d34ec0ceac5a412b032/hls-p/ingest_782_720p/index.m3u8
+http://streamku.live:8888/live/empire/adminempire/607.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV ( Back Up)
