@@ -21,8 +21,12 @@ https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDONESIA",RCTI+
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDONESIA",RCTI (Back up)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDONESIA",RCTI (Back up) 1
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDONESIA",RCTI (Back up) 2
+http://streamku.live:8888/live/empire/adminempire/604.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="INDONESIA",TVRI 1
