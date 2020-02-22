@@ -346,21 +346,35 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 http://tv.denied.network/sporttv5hd/stream
 
 #EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/31682adb-c504-409d-b2ea-d43245491a9a_original-3.png" group-title="SPORTS",True Premier Football 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/31682adb-c504-409d-b2ea-d43245491a9a_original-3.png" group-title="SPORTS",True Premier Football 1 (Back Up)
+https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/epl-x2_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 2 (Back Up)
+http://119.59.116.136:8889/threstr/premierleague/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
- 
+https://www.doofree88.com/streaming/epl-x3_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 3 (Back Up)
+https://live.mawintv2.com/02_PremierHD3_720p/chunklist.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS",True Premier Football 4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
- 
+https://www.doofree88.com/streaming/epl-x4_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS",True Premier Football 4 (Back Up)
+https://live.mawintv2.com/02_PremierHD4_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original-1.png" group-title="SPORTS",True Premier Football 5
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/epl-x5_720/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original-1.png" group-title="SPORTS",True Premier Football 5 (Back Up)
+https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
 
 
 
@@ -388,15 +402,16 @@ http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
 http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="SPORTS",TrueSport HD 1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/hd-tsport1_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="SPORTS",TrueSport HD 2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/hd-tsport2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="SPORTS",TrueSport HD 3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="SPORTS",TrueSport HD 4
+https://www.doofree88.com/streaming/hd-tsport4_720/index.m3u8
 
 
 
