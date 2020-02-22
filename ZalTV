@@ -262,10 +262,12 @@ http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/88/Fox_Sports_2_Asia.jpg/320px-Fox_Sports_2_Asia.jpg" group-title="SPORTS",FOX Sport 2
-http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/fox_sports_3.jpg" group-title="SPORTS",FOX Sport 3
-http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/18/2/17/fox-sports-3-fox-sports-1-logo-television-channel-png-favpng-5ivi0RNBNQjMkirymSk78yabw.jpg" group-title="SPORTS",FOX SPORTS 1 FULL HD
 http://103.146.185.235:8888/live/stress/bersama/30.ts
@@ -631,13 +633,13 @@ http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/7b/d4/f47bd4ea4008e8b06ce0d2b1aa08f83b.png" group-title="RELIGI",WESAL TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI", KHAZANAH TV
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rMcE5i7IbEc/UUWGytHpZ5I/AAAAAAAAANM/knCJl3oUc5g/s1600/khazanah1.jpg group-title="RELIGI", KHAZANAH TV
 http://streamku.live:8888/live/empire/adminempire/674.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C11GK0PM/rodjatv.png" group-title="RELIGI", RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI", SALAM TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Salam_TV.png" group-title="RELIGI", SALAM TV
 http://streamku.live:8888/live/empire/adminempire/493.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1.png" group-title="RELIGI", ASHIIL TV
