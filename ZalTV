@@ -259,7 +259,7 @@ http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
 ########################################################### SPORTS ###################################################
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX Sport 1
-http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
+http://streamku.live:8888/live/empire/adminempire/620.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/88/Fox_Sports_2_Asia.jpg/320px-Fox_Sports_2_Asia.jpg" group-title="SPORTS",FOX Sport 2
 https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
@@ -270,7 +270,7 @@ https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/18/2/17/fox-sports-3-fox-sports-1-logo-television-channel-png-favpng-5ivi0RNBNQjMkirymSk78yabw.jpg" group-title="SPORTS",FOX SPORTS 1 FULL HD
-http://103.146.185.235:8888/live/stress/bersama/30.ts
+http://streamku.live:8888/live/empire/adminempire/620.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORTS 2 FULL HD
 http://iliketot.dyndns.tv/1fd48f2cd616439ca4162478e572d681.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
@@ -377,6 +377,7 @@ https://www.doofree88.com/streaming/epl-x5_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2019/08/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original-1.png" group-title="SPORTS",True Premier Football 5 (Back Up)
 https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
+
 
 
 
@@ -762,7 +763,7 @@ http://streamku.live:8888/live/empire/adminempire/592.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",Blue Ant Extreme
-http://streamku.live:8888/live/empire/adminempire/587.m3u8
+http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="MOVIES",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
@@ -929,12 +930,12 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-country="US" tvg-url="" group-title="Movies",24/7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Movies",24/7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Movies",AYSAR Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" tvg-country="CN" tvg-url="" group-title="Movies",AYSAR Hollywood Movies 7
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Movies",AYSAR MOVIE 11
 https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Movies",AYSAR MOVIE 12
@@ -1123,7 +1124,7 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO
 http://streamku.live:8888/live/empire/adminempire/576.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="." group-title="Movies",HBO With Subs
+#EXTINF:-1 tvg-id="id N/A" tvg-logo=" group-title="Movies",HBO With Subs
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Starz.png?raw=true" group-title="Movies",Starz
@@ -1156,8 +1157,8 @@ https://distro.akamaized.net/indexfd_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="Movies",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="Movies",24/7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+
+
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpLiygKeBSPURaGK3xwJuesFvfq5yqxNHqxtC_VmiskKn7GUGd&s" group-title="English",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
