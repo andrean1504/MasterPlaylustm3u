@@ -759,10 +759,10 @@ https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southea
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2mV7ZoDhx7g2ud2rTgcSpJFsf9eYxJX27XC7XrgG-dYgL__KvRw&s" group-title="MOVIES",Celestial Movies
 http://streamku.live:8888/live/empire/adminempire/592.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",WARNER TV 
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",ZEE BIOSKOP 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jFbo1l8.png" group-title="MOVIES",ZEE BIOSKOP 
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 
 
