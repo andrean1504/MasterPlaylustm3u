@@ -818,7 +818,7 @@ http://streamku.live:8888/live/empire/adminempire/585.m3u8
 http://157.119.56.249:2019/live/gratis/diemdiemaja/39.ts 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime
-http://streamku.live:8888/live/empire/adminempire/582.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO
 http://streamku.live:8888/live/empire/adminempire/576.m3u8
