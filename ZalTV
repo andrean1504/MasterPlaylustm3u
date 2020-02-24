@@ -811,17 +811,31 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX
 http://streamku.live:8888/live/empire/adminempire/581.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="MOVIES",FOX (Back Up)
+https://www.doofree88.com/streaming/sd-fox_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Movies ID
 http://streamku.live:8888/live/empire/adminempire/585.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Movies ID (Back Up)
+https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="MOVIES", FOX ACTION MOVIES 
-http://157.119.56.249:2019/live/gratis/diemdiemaja/39.ts 
+http://157.119.56.249:2019/live/gratis/diemdiemaja/39.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="MOVIES", FOX ACTION MOVIES (Back Up)
+https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO
 http://streamku.live:8888/live/empire/adminempire/576.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO (Back Up)
+https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="MOVIES",HBO Hits HD ID
 http://streamku.live:8888/live/empire/adminempire/578.m3u8
