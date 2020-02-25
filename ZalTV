@@ -413,9 +413,10 @@ http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="BEIN GRUP",BEIN SPORTS_12 HD
 http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
 
+
 ########################################################### OLYMPIC SPORTS ###################################################
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gs
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="OLYMPIC SPORTS",Olympic 1
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
@@ -454,6 +455,7 @@ https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
 
 
 ########################################################### RELIGI ###################################################
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGg3wEzJKeDXsFBV9_Mn9JvAn7lF8q2Ju2HD0HaAFTDRENDXa&s" group-title="RELIGI", MUSLIM TV
 https://liveanevia.mncnow.id/live/eds/AutoGadget/sa_hls/AutoGadget.m3u8
@@ -518,7 +520,9 @@ http://streamku.live:8888/live/empire/adminempire/493.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1.png" group-title="RELIGI", ASHIIL TV
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
 
+
 ########################################################### KNOWLEDGE ###################################################
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="KNOWLEDGE",History Channel
 http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8
@@ -583,7 +587,9 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwFdlFOfvqV-8GF99MBAB-J6IgWdzuAUSBQOgPjK7VkXGJJD27" group-title="KNOWLEDGE",The Pet Collevtive
 https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1577080744~exp=9007200831821735~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_2/chunklist.m3u8*~hmac=baa54452db02d00d42b3b34565dd2c7ac10da7fdec56bbe1e717ce4fccaba918
 
+
 ########################################################### GAYA HIDUP ###################################################
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/97/Logo_Home_Living.png/1200px-Logo_Home_Living.png" group-title="GAYA HIDUP",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
@@ -618,7 +624,9 @@ https://video2.onlivestreaming.net/rumahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GAYA HIDUP",NIFTY
 https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600131~exp=9007200828341122~acl=/1648324ea85b498897752a6385bb5e08/*/profile_0/chunklist.m3u8*~hmac=ef80a6511d587f2eb41ad6648ac462ecb322472d3dfbff48a5e800fe73d24abb
 
+
 ########################################################### MOVIES ###################################################
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2mV7ZoDhx7g2ud2rTgcSpJFsf9eYxJX27XC7XrgG-dYgL__KvRw&s" group-title="MOVIES",Celestial Movies
 http://streamku.live:8888/live/empire/adminempire/592.m3u8
@@ -717,15 +725,13 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="MOVIES",Cinemax HD
 http://streamku.live:8888/live/empire/adminempire/589.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=http%3A%2F%2Fassets.stickpng.com%2Fthumbs%2F5a0ac9495a997e1c2cea10b8.png&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Fcinema-logos%2Fcineworld-black-logo&tbnid=RTxwWGwhvxXnUM&vet=12ahUKEwjajI6v5uvnAhWOLSsKHfU2B8YQMygCegUIARDQAQ..i&docid=ibiYlWTcv0LLsM&w=400&h=400&q=logo%20png%20cinema%20world&client=firefox-b-d&ved=2ahUKEwjajI6v5uvnAhWOLSsKHfU2B8YQMygCegUIARDQAQ" group-title="MOVIES",CINEMA WORLD MALAYSIA 
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fid%2Fthumb%2F1%2F1c%2FSony_One.png%2F200px-Sony_One.png" group-title="MOVIES",CINEMA WORLD MALAYSIA 
 http://45.126.83.51:443/uq2663/h/h04/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fid%2Fthumb%2F1%2F1c%2FSony_One.png%2F200px-Sony_One.png&imgrefurl=https%3A%2F%2Fid.wikipedia.org%2Fwiki%2FSony_One&tbnid=kk6vj-sssPlnFM&vet=12ahUKEwiDxsaa5OvnAhWPWSsKHb2bCjkQMygAegUIARDPAQ..i&docid=TDRo8EThjQjsLM&w=200&h=227&q=logo%20png%20sony%20one&client=firefox-b-d&ved=2ahUKEwiDxsaa5OvnAhWPWSsKHb2bCjkQMygAegUIARDPAQ			
-" group-title="MOVIES",SONY ONE 
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fid%2Fthumb%2F1%2F1c%2FSony_One.png%2F200px-Sony_One.png" group-title="MOVIES",SONY ONE 
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=http%3A%2F%2Fpluspng.com%2Fimg-png%2Fstar-movies-logo-png-star-movies-hd-star-movies-png-300.png&imgrefurl=http%3A%2F%2Fpluspng.com%2Fstar-movies-logo-png-6601.html&tbnid=Ky2qvWCRnQV9BM&vet=12ahUKEwiB8bLl5evnAhWUSSsKHbkYA3QQMygAegUIARDMAQ..i&docid=c2WPewBgIr_fwM&w=300&h=300&q=logo%20png%20star%20movies&client=firefox-b-d&ved=2ahUKEwiB8bLl5evnAhWUSSsKHbkYA3QQMygAegUIARDMAQ			
-" group-title="MOVIES",STAR MOVIES 
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=http%3A%2F%2Fpluspng.com%2Fimg-png" group-title="MOVIES",STAR MOVIES 
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 1 
