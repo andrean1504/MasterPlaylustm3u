@@ -270,7 +270,8 @@ http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
 ########################################################### SPORTS ###################################################
 
 
-#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="SPORTS",Fox Sports News
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" 
+tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="SPORTS",Fox Sports News
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX Sport 1
 http://streamku.live:8888/live/empire/adminempire/620.m3u8
@@ -1140,7 +1141,7 @@ https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8?
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8?
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",ANIPLUS 
-http://streamku.live:8888/live/empire/adminempire/563.m3u8
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-language="English" tvg-logo="https://i.imgur.com/kdgMVOI.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="KIDS",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
